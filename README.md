@@ -1,4 +1,4 @@
-## :chart_increasing: アプリURL
+## :chart_with_upwards_trend: アプリURL
 
 https://57jccno5qokwivyazc3als.streamlit.app/
 

@@ -1,10 +1,10 @@
 ## :fork_and_knife: アプリURL
 
-https://food-kafl.onrender.com/
+https://57jccno5qokwivyazc3als.streamlit.app/
 
 ## :fork_and_knife: アプリ画面
 
-![menu](https://github.com/user-attachments/assets/c85a2e96-253c-4d9f-a325-9c7e5513bcbd)
+![top](https://github.com/user-attachments/assets/34f7c956-9ca9-4ff7-be92-ed04d8926754)
 
 ## :fork_and_knife: 開発環境 
 

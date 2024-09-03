@@ -17,4 +17,4 @@ https://57jccno5qokwivyazc3als.streamlit.app/
 ### 1、CSVファイルを読み込み、データとグラフを表示します
 [picking CSVファイル](https://github.com/niamateu/chart/blob/main/picking.csv)
 
-![top2](https://github.com/user-attachments/assets/17b94c2b-f4ae-4c59-a708-c78ca2d161ea)
+![chart](https://github.com/user-attachments/assets/b348a8b9-2999-412a-a974-08919acb266a)

@@ -18,3 +18,7 @@ https://57jccno5qokwivyazc3als.streamlit.app/
 [picking CSVファイル](https://github.com/niamateu/chart/blob/main/picking.csv)
 
 ![chart](https://github.com/user-attachments/assets/b348a8b9-2999-412a-a974-08919acb266a)
+
+### 2、点にカーソルを合わせると数値を表示します
+
+![marl_line](https://github.com/user-attachments/assets/9a485233-a147-466a-81d3-619029a4296a)

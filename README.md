@@ -14,6 +14,6 @@ https://57jccno5qokwivyazc3als.streamlit.app/
 
 ## :chart_with_upwards_trend: アプリ機能
 
-### 1、
+### 1、CSVファイルを読み込み、データとグラフを表示します
 [picking CSVファイル](https://github.com/niamateu/chart/blob/main/picking.csv)
 

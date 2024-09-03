@@ -1,4 +1,4 @@
-## :fork_and_knife: アプリURL
+## :chart_increasing: アプリURL
 
 https://57jccno5qokwivyazc3als.streamlit.app/
 

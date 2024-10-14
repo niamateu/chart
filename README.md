@@ -1,4 +1,4 @@
-## :chart_with_upwards_trend: アプリURL
+## :chart_with_upwards_trend: 出荷変動チャートURL
 
 https://57jccno5qokwivyazc3als.streamlit.app/
 
